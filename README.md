@@ -1,2 +1,1 @@
-"# rgb" 
-"# rgb" 
+A simple application created for fun.
